@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Warning: No tests created yet.\""
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlie-nguyen21/COMP2156.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC"
